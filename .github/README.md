@@ -45,7 +45,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/AshokShau/TgMusicBot.git && cd TgMusicBot
+   git clone https://github.com/isagzbyk46/TgMusicBot.git && cd TgMusicBot
    ```
 2. Build the Docker image:  
    ```sh
@@ -65,7 +65,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/AshokShau/TgMusicBot.git && cd TgMusicBot
+   git clone https://github.com/isagzbyk46/TgMusicBot.git && cd TgMusicBot
    ```
 2. Create a virtual environment:  
    ```sh
@@ -96,7 +96,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 <details>
   <summary><strong>Deploy on Heroku (Click to expand)</strong></summary>
   <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/AshokShau/TgMusicBot">
+    <a href="https://heroku.com/deploy?template=https://github.com/isagzbyk46/TgMusicBot">
       <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45" alt="Deploy">
     </a>
   </p>
@@ -134,7 +134,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 ### 🖼️ Thumbnails & Cookies
 
 - **IMG_URL** – Fallback thumbnail (if no song thumbnail is found)  
-- **COOKIES_URL** – URLs for downloading cookies (More info [here](https://github.com/AshokShau/TgMusicBot/blob/master/cookies/README.md))  
+- **COOKIES_URL** – URLs for downloading cookies (More info [here](https://github.com/isagzbyk46/TgMusicBot/blob/master/cookies/README.md))  
 
 </details>
 
@@ -142,7 +142,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 
 ## **🎮 Usage**  
 
-1. **Add [@FallenBeatzBot](https://t.me/FallenBeatzBot) to a group** and grant **admin permissions**.  
+1. **Add [@FallenBeatzBot](https://t.me/gitaristmusic12) to a group** and grant **admin permissions**.  
 2. Use `/start` to **initialize** the bot.  
 3. Use `/help` to view the **list of available commands**.  
 
@@ -152,7 +152,7 @@ We provide a permanent solution! Get a **Spotify API key** and enjoy seamless so
 
 Contributions are welcome! If you'd like to contribute:  
 
-1. **Fork** the [repository](https://github.com/AshokShau/TgMusicBot).  
+1. **Fork** the [repository](https://github.com/isagzbyk46/TgMusicBot).  
 2. **Make meaningful changes** – improve features, fix bugs, or optimize performance.  
 3. **Submit a pull request** with a clear explanation of your changes.  
 
@@ -187,10 +187,10 @@ Every contribution helps! ❤️
 ## **🔗 Links**  
 
 > **Follow** me on [GitHub](https://github.com/AshokShau) for updates.  
-> **Star** the repository on [GitHub](https://github.com/AshokShau/TgMusicBot) to support the project.  
+> **Star** the repository on [GitHub](https://github.com/isagzbyk46/TgMusicBot) to support the project.  
 
 📢 **Join our Telegram community:**  
-[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-Join%20Now-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GuardxSupport)  
-[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-Join%20Now-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FallenProjects)  
+[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-Join%20Now-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gitaristmusic12)  
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-Join%20Now-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gitaristmusica)  
 
 ---
